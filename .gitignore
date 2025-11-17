@@ -1,0 +1,34 @@
+# -------------------
+# Node dependencies
+# -------------------
+node_modules/
+
+# -------------------
+# Environment variables
+# -------------------
+.env
+
+# -------------------
+# Cloud related files (contains secrets)
+# -------------------
+cloudConfig.js
+
+# -------------------
+# Logs
+# -------------------
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# -------------------
+# Temporary / IDE files
+# -------------------
+tempCodeRunnerFile.js
+.vscode/
+.DS_Store
+
+# -------------------
+# Backup / System files
+# -------------------
+Thumbs.db
